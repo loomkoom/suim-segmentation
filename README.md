@@ -45,9 +45,9 @@ Extract the zip folders, `train_val` is training/validation data and `test` is t
 
 change the `ddir` variable at the top of the notebook to point at the folder where you unzipped the training and test folders.
 
-`project_start` has all the data exploration, preparation and training of models up to the Convolution Neural Network. (Notebook cells with !! in front of them are needed, other cells are optional)
+`project_start` has all the data exploration, preparation and training of models up to the Convolution Neural Network. (Notebook cells with !! in front of them are needed, other cells are mostly optional)
 
-`project_models` contains all the previous models with the addittion the construction of the dataset and training of the fully connected CNN's
+`project_models` contains all the previous models with the addittion the construction of the tensorflow dataset and training of the fully connected CNN's
 
 `project_masks` contains the code to show prediction masks on full images and has some comparisons
 
