@@ -1,4 +1,4 @@
-# SUIM Dataset Installation and Notebook Execution Guide
+# SUIM Dataset segmentation task
 
 This guide provides instructions on how to install the SUIM dataset and run the associated Jupyter notebook. 
 
